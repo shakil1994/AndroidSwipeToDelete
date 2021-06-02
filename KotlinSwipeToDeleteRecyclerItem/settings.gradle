@@ -1,0 +1,2 @@
+rootProject.name = "KotlinSwipeToDeleteRecyclerItem"
+include ':app'
